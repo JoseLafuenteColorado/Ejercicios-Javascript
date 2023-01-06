@@ -2,7 +2,7 @@
 ## Desarrollo de Aplicaciones Web - Entorno Cliente
 ### José Lafuente Colorado
 
-1. Calculadora
+1. Calculadora: creamos una calculadora muy básica.
    
 2. Inicio:
    1. ES6Form_3: probamos la instrucción 'eval'.
